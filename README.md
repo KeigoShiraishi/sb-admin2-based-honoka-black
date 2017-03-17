@@ -1,4 +1,4 @@
-<img src="https://github.com/KeigoShiraishi/images/blob/master/sb-admin2-black-style.png" alt="sb-admin2-black-style" title="sample-image">
+<img src="https://github.com/KeigoShiraishi/images/blob/master/sb-admin2-based-honoka-black.png" alt="sb-admin2-based-honoka-black" title="sample-image">
 
 ## sb-admin2-based-honoka-black
 
